@@ -5,7 +5,7 @@ Họ và tên: Cao Nguyên Bình
 MSSV: 52000196
 Họ và tên: Nguyễn Tiến Đạt
 
-Link Git: https://github.com/binhkuro/52000185-52000196-QuanLyTienDien
+Link Git: 
 Link Youtube demo ứng dụng: https://youtu.be/Do5i1kEQHKQ
 
 Các bước chạy:
