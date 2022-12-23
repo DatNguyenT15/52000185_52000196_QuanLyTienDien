@@ -5,7 +5,7 @@ Họ và tên: Cao Nguyên Bình
 MSSV: 52000196
 Họ và tên: Nguyễn Tiến Đạt
 
-Link Git: 
+Link Git: https://github.com/DatNguyenT15/CMPM-Demo.git
 Link Youtube demo ứng dụng: https://youtu.be/Do5i1kEQHKQ
 
 Các bước chạy:
